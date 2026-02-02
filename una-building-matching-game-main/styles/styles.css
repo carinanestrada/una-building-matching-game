@@ -77,11 +77,20 @@ h1 {
 }
 
 .login-container {
-  border-style: dashed;
-  color: rgb(86, 59, 112)
+  border-style: solid;
+  color: rgb(86, 59, 112);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5%;
+
 }
 
 #bdy-txt {
   text-align: center;
   transition: 0.5s ease-in-out;
 }
+
+.inside-login {
+  border: solid black thin;
+  padding: 5px;
+} 
