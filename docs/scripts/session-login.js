@@ -22,6 +22,6 @@ console.log("Password is: key123");
         console.log('session username:', username);
         console.log('session password:', password);
 
-       //S window.location.assign("about.html");
+       window.location.assign("about.html");
 
       });
