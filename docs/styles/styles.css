@@ -4,17 +4,16 @@
 /* Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
-/** {
-  background-color: #f0a5dd;
+ *{
+  background-color: #f7e1f1;
   font-size: 30px;
   font-family: sans-serif;
 
 }
-*/
+
 
 .header {
-  overflow: hidden;
-  
+  overflow: hidden;  
 }
 
 
@@ -96,8 +95,6 @@ h1 {
   border-style: solid;
   color: rgb(86, 59, 112);
   border-radius: 10px;
-  padding: 5px;
-  margin: 5%;
 
 }
 
