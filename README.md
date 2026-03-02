@@ -9,6 +9,8 @@ Source code : https://github.com/carinanestrada/una-building-matching-game/
 *I want to help others know what buildings people are refering to so they know where their classes are
 *So that people feel comfortable navigating campus and know important places
 
+Code sample:
+
 dom 
 script
 com
