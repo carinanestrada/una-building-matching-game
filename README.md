@@ -7,6 +7,6 @@ As a student at UNA, I want to be familiar with the academic buildings, so that 
 ### Repository link tested on mobile + desktop: 
 https://github.com/carinanestrada/una-building-matching-game/
 Model sketch of una matching game: 
-![Model](docs/images/images/model.jpg)
+![Model](docs/images/model.jpg)
 
 Code explanation:
