@@ -9,4 +9,4 @@ https://github.com/carinanestrada/una-building-matching-game/
 Model sketch of una matching game: 
 ![Model](docs/images/model.jpg)
 
-Code explanation:
+Code explanation: the search narrows down parameters using javascript array as user types in values and transforms all to lowercase for better user experience and simplicity.
