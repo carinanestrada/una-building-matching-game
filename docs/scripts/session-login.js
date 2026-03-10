@@ -1,7 +1,4 @@
-console.log("Password is: key123");
-      console.log("So snoopy lol");
-
-      //when clicked = event > get name and pass
+     //when clicked = event > get name and pass
       //pass an immediately invoked function expression IIFE
       document.addEventListener('submit', function (event) {
         event.preventDefault();
